@@ -1,0 +1,273 @@
+concept_id,concept_name,drugs_to_keep,generic_drug_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+740217,{1 (2 ML) (cabotegravir 200 MG/ML Injectable Suspension) / 1 (2 ML) (rilpivirine 300 MG/ML Injectable Suspension) } Pack,1,cabotegravir/rilpivirine,Drug,RxNorm,Clinical Pack,S,2475417,4/5/2021,12/31/2099,NA
+740218,{1 (2 ML) (cabotegravir 200 MG/ML Injectable Suspension) / 1 (2 ML) (rilpivirine 300 MG/ML Injectable Suspension) } Pack [CABENUVA 400 MG / 600 MG],1,cabotegravir/rilpivirine,Drug,RxNorm,Branded Pack,S,2475418,4/5/2021,12/31/2099,NA
+740215,{1 (3 ML) (cabotegravir 200 MG/ML Injectable Suspension) / 1 (3 ML) (rilpivirine 300 MG/ML Injectable Suspension) } Pack,1,cabotegravir/rilpivirine,Drug,RxNorm,Clinical Pack,S,2475415,4/5/2021,12/31/2099,NA
+740216,{1 (3 ML) (cabotegravir 200 MG/ML Injectable Suspension) / 1 (3 ML) (rilpivirine 300 MG/ML Injectable Suspension) } Pack [CABENUVA 600 MG / 900 MG],1,cabotegravir/rilpivirine,Drug,RxNorm,Branded Pack,S,2475416,4/5/2021,12/31/2099,NA
+45893034,{2 (dasabuvir 250 MG Oral Tablet) / 2 (ombitasvir 12.5 MG / paritaprevir 75 MG / ritonavir 50 MG Oral Tablet) } Pack,0,,Drug,RxNorm,Clinical Pack,S,1597387,3/2/2015,12/31/2099,NA
+45892214,{2 (dasabuvir 250 MG Oral Tablet) / 2 (ombitasvir 12.5 MG / paritaprevir 75 MG / ritonavir 50 MG Oral Tablet) } Pack [Viekira Pak],0,,Drug,RxNorm,Branded Pack,S,1597388,3/2/2015,12/31/2099,NA
+702577,{20 (nirmatrelvir 150 MG Oral Tablet) / 10 (ritonavir 100 MG Oral Tablet) } Pack,0,,Drug,RxNorm,Clinical Pack,S,2587898,1/3/2022,12/31/2099,NA
+702578,{20 (nirmatrelvir 150 MG Oral Tablet) / 10 (ritonavir 100 MG Oral Tablet) } Pack [Paxlovid 5-Day],0,,Drug,RxNorm,Branded Pack,S,2587899,1/3/2022,12/31/2099,NA
+40220769,{3 (24 HR dasabuvir 200 MG / ombitasvir 8.33 MG / paritaprevir 50 MG / ritonavir 33.33 MG Extended Release Oral Tablet) } Pack [Viekira XR Pak],0,,Drug,RxNorm,Branded Pack,S,1802215,10/3/2016,12/31/2099,NA
+42544077,1.33 ML ibalizumab-uiyk 150 MG/ML Injection [Trogarzo],1,ibalizumab-uiyk,Drug,RxNorm,Quant Branded Drug,S,2043322,5/7/2018,12/31/2099,NA
+19027669,20 ML zidovudine 10 MG/ML Injection,1,zidovudine,Drug,RxNorm,Quant Clinical Drug,S,204534,1/1/1970,12/31/2099,NA
+19010179,20 ML zidovudine 10 MG/ML Injection [Retrovir],1,zidovudine,Drug,RxNorm,Quant Branded Drug,S,108396,1/1/1970,12/31/2099,NA
+40220796,24 HR dasabuvir 200 MG / ombitasvir 8.33 MG / paritaprevir 50 MG / ritonavir 33.33 MG Extended Release Oral Tablet,0,,Drug,RxNorm,Quant Clinical Drug,S,1802213,10/3/2016,12/31/2099,NA
+40237541,24 HR nevirapine 400 MG Extended Release Oral Tablet,1,nevirapine,Drug,RxNorm,Quant Clinical Drug,S,1095712,5/1/2011,12/31/2099,NA
+40237542,24 HR nevirapine 400 MG Extended Release Oral Tablet [Viramune],1,nevirapine,Drug,RxNorm,Quant Branded Drug,S,1095715,5/1/2011,12/31/2099,NA
+1736971,abacavir,1,abacavir,Drug,RxNorm,Ingredient,S,190521,1/1/1970,12/31/2099,NA
+19058557,abacavir 20 MG/ML Oral Solution,1,abacavir,Drug,RxNorm,Clinical Drug,S,242680,1/1/1970,12/31/2099,NA
+1736993,abacavir 20 MG/ML Oral Solution [Ziagen],1,abacavir,Drug,RxNorm,Branded Drug,S,213461,1/1/1970,12/31/2099,NA
+19120798,abacavir 300 MG / lamivudine 150 MG / zidovudine 300 MG [Trizivir],1,abacavir/lamivudine/zidovudine,Drug,RxNorm,Branded Drug Comp,S,575077,9/11/2005,12/31/2099,NA
+19072156,abacavir 300 MG / lamivudine 150 MG / zidovudine 300 MG Oral Tablet,1,abacavir/lamivudine/zidovudine,Drug,RxNorm,Clinical Drug,S,307650,1/1/1970,12/31/2099,NA
+19071718,abacavir 300 MG / lamivudine 150 MG / zidovudine 300 MG Oral Tablet [Trizivir],1,abacavir/lamivudine/zidovudine,Drug,RxNorm,Branded Drug,S,285028,1/1/1970,12/31/2099,NA
+19086090,abacavir 300 MG [Ziagen],1,abacavir,Drug,RxNorm,Branded Drug Comp,S,573348,9/11/2005,12/31/2099,NA
+1736994,abacavir 300 MG Oral Tablet,1,abacavir,Drug,RxNorm,Clinical Drug,S,242679,1/1/1970,12/31/2099,NA
+19047810,abacavir 300 MG Oral Tablet [Ziagen],1,abacavir,Drug,RxNorm,Branded Drug,S,213460,1/1/1970,12/31/2099,NA
+45775747,abacavir 600 MG / dolutegravir 50 MG / lamivudine 300 MG Oral Tablet,1,abacavir/dolutegravir/lamivudine,Drug,RxNorm,Clinical Drug,S,1546888,12/1/2014,12/31/2099,NA
+45775751,abacavir 600 MG / dolutegravir 50 MG / lamivudine 300 MG Oral Tablet [Triumeq],1,abacavir/dolutegravir/lamivudine,Drug,RxNorm,Branded Drug,S,1546894,12/1/2014,12/31/2099,NA
+19122307,abacavir 600 MG / lamivudine 300 MG [Epzicom],1,abacavir/lamivudine,Drug,RxNorm,Branded Drug Comp,S,602394,2/26/2006,12/31/2099,NA
+19122306,abacavir 600 MG / lamivudine 300 MG Oral Tablet,1,abacavir/lamivudine,Drug,RxNorm,Clinical Drug,S,602393,2/26/2006,12/31/2099,NA
+19122308,abacavir 600 MG / lamivudine 300 MG Oral Tablet [Epzicom],1,abacavir/lamivudine,Drug,RxNorm,Branded Drug,S,602395,2/26/2006,12/31/2099,NA
+1789428,amprenavir,1,amprenavir,Drug,RxNorm,Ingredient,S,228656,1/1/1970,12/31/2099,NA
+1789430,amprenavir 150 MG Oral Capsule,1,amprenavir,Drug,RxNorm,Clinical Drug,S,252618,1/1/1970,12/31/2099,NA
+19068301,amprenavir 150 MG Oral Capsule [Agenerase],1,amprenavir,Drug,RxNorm,Branded Drug,S,261207,1/1/1970,12/31/2099,NA
+1727223,atazanavir,1,atazanavir,Drug,RxNorm,Ingredient,S,343047,1/1/1970,12/31/2099,NA
+19102220,atazanavir 100 MG Oral Capsule,1,atazanavir,Drug,RxNorm,Clinical Drug,S,402245,1/1/1970,12/31/2099,NA
+19102203,atazanavir 100 MG Oral Capsule [Reyataz],1,atazanavir,Drug,RxNorm,Branded Drug,S,402095,1/1/1970,12/31/2099,NA
+19102221,atazanavir 150 MG Oral Capsule,1,atazanavir,Drug,RxNorm,Clinical Drug,S,402246,1/1/1970,12/31/2099,NA
+19102202,atazanavir 150 MG Oral Capsule [Reyataz],1,atazanavir,Drug,RxNorm,Branded Drug,S,402094,1/1/1970,12/31/2099,NA
+19102222,atazanavir 200 MG Oral Capsule,1,atazanavir,Drug,RxNorm,Clinical Drug,S,402247,1/1/1970,12/31/2099,NA
+19102201,atazanavir 200 MG Oral Capsule [Reyataz],1,atazanavir,Drug,RxNorm,Branded Drug,S,402093,1/1/1970,12/31/2099,NA
+45892114,atazanavir 300 MG / cobicistat 150 MG Oral Tablet,1,atazanavir/cobicistat,Drug,RxNorm,Clinical Drug,S,1601654,3/2/2015,12/31/2099,NA
+45892118,atazanavir 300 MG / cobicistat 150 MG Oral Tablet [Evotaz],1,atazanavir/cobicistat,Drug,RxNorm,Branded Drug,S,1601660,3/2/2015,12/31/2099,NA
+1727254,atazanavir 300 MG Oral Capsule,1,atazanavir,Drug,RxNorm,Clinical Drug,S,664741,12/17/2006,12/31/2099,NA
+1727255,atazanavir 300 MG Oral Capsule [Reyataz],1,atazanavir,Drug,RxNorm,Branded Drug,S,664743,12/17/2006,12/31/2099,NA
+45892744,atazanavir 50 MG Oral Powder [Reyataz],1,atazanavir,Drug,RxNorm,Branded Drug,S,1598989,3/2/2015,12/31/2099,NA
+964008,bictegravir,1,bictegravir,Drug,RxNorm,Ingredient,S,1999660,4/2/2018,12/31/2099,NA
+702171,bictegravir 30 MG / emtricitabine 120 MG / tenofovir alafenamide 15 MG Oral Tablet [Biktarvy],1,bictegravir/emtricitabine/tenofovir alafenamide,Drug,RxNorm,Branded Drug,S,2584356,1/3/2022,12/31/2099,NA
+964015,bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet,1,bictegravir/emtricitabine/tenofovir alafenamide,Drug,RxNorm,Clinical Drug,S,1999667,4/2/2018,12/31/2099,NA
+964021,bictegravir 50 MG / emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Biktarvy],1,bictegravir / emtricitabine / tenofovir alafenamide,Drug,RxNorm,Branded Drug,S,1999673,4/2/2018,12/31/2099,NA
+42874220,cobicistat,1,cobicistat,Drug,RxNorm,Ingredient,S,1306284,9/4/2012,12/31/2099,NA
+1560079,cobicistat 150 MG / darunavir 800 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet,1,cobicistat/darunavir/emtricitabine/tenofovir alafenamide,Drug,RxNorm,Clinical Drug,S,2049671,8/6/2018,12/31/2099,NA
+1560085,cobicistat 150 MG / darunavir 800 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Symtuza],1,cobicistat/darunavir/emtricitabine/tenofovir alafenamide,Drug,RxNorm,Branded Drug,S,2049677,8/6/2018,12/31/2099,NA
+45892974,cobicistat 150 MG / darunavir 800 MG Oral Tablet,1,cobicistat/darunavir,Drug,RxNorm,Clinical Drug,S,1600704,3/2/2015,12/31/2099,NA
+45892978,cobicistat 150 MG / darunavir 800 MG Oral Tablet [Prezcobix],1,cobicistat/darunavir,Drug,RxNorm,Branded Drug,S,1600710,3/2/2015,12/31/2099,NA
+35605552,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet,1,cobicistat/elvitegravir/emtricitabine/tenofovir alafenamide,Drug,RxNorm,Clinical Drug,S,1721613,5/2/2016,12/31/2099,NA
+35605556,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Genvoya],1,cobicistat/elvitegravir/emtricitabine/tenofovir alafenamide,Drug,RxNorm,Branded Drug,S,1721619,5/2/2016,12/31/2099,NA
+42874224,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1,cobicistat/elvitegravir/emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1306292,9/4/2012,12/31/2099,NA
+42874225,cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Stribild],1,cobicistat/elvitegravir/emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1306298,9/4/2012,12/31/2099,NA
+45774768,cobicistat 150 MG Oral Tablet,1,cobicistat,Drug,RxNorm,Clinical Drug,S,1551993,12/1/2014,12/31/2099,NA
+45774772,cobicistat 150 MG Oral Tablet [Tybost],1,cobicistat,Drug,RxNorm,Branded Drug,S,1551999,12/1/2014,12/31/2099,NA
+1756831,darunavir,1,darunavir,Drug,RxNorm,Ingredient,S,460132,11/19/2006,12/31/2099,NA
+42707831,darunavir 100 MG/ML Oral Suspension,1,darunavir,Drug,RxNorm,Clinical Drug,S,1236628,5/7/2012,12/31/2099,NA
+42707832,darunavir 100 MG/ML Oral Suspension [Prezista],1,darunavir,Drug,RxNorm,Branded Drug,S,1236632,5/7/2012,12/31/2099,NA
+40161651,darunavir 150 MG Oral Tablet,1,darunavir,Drug,RxNorm,Clinical Drug,S,850455,7/5/2009,12/31/2099,NA
+40161652,darunavir 150 MG Oral Tablet [Prezista],1,darunavir,Drug,RxNorm,Branded Drug,S,850457,7/5/2009,12/31/2099,NA
+19124376,darunavir 300 MG Oral Tablet,1,darunavir,Drug,RxNorm,Clinical Drug,S,643074,8/27/2006,12/31/2099,NA
+19124378,darunavir 300 MG Oral Tablet [Prezista],1,darunavir,Drug,RxNorm,Branded Drug,S,643078,8/27/2006,12/31/2099,NA
+1756839,darunavir 400 MG Oral Tablet,1,darunavir,Drug,RxNorm,Clinical Drug,S,824338,11/30/2008,12/31/2099,NA
+1756840,darunavir 400 MG Oral Tablet [Prezista],1,darunavir,Drug,RxNorm,Branded Drug,S,824876,11/30/2008,12/31/2099,NA
+19125237,darunavir 600 MG Oral Tablet,1,darunavir,Drug,RxNorm,Clinical Drug,S,670026,12/17/2006,12/31/2099,NA
+19129965,darunavir 600 MG Oral Tablet [Prezista],1,darunavir,Drug,RxNorm,Branded Drug,S,794610,6/1/2008,12/31/2099,NA
+42902282,darunavir 800 MG Oral Tablet,1,darunavir,Drug,RxNorm,Clinical Drug,S,1359269,12/3/2012,12/31/2099,NA
+42902283,darunavir 800 MG Oral Tablet [Prezista],1,darunavir,Drug,RxNorm,Branded Drug,S,1359271,12/3/2012,12/31/2099,NA
+1747157,delavirdine,1,delavirdine,Drug,RxNorm,Ingredient,S,83816,1/1/1970,12/31/2099,NA
+40162287,delavirdine mesylate 100 MG Oral Tablet,1,delavirdine mesylate,Drug,RxNorm,Clinical Drug,S,856560,8/2/2009,12/31/2099,NA
+40162288,delavirdine mesylate 100 MG Oral Tablet [Rescriptor],1,delavirdine mesylate,Drug,RxNorm,Branded Drug,S,856562,8/2/2009,12/31/2099,NA
+40162291,delavirdine mesylate 200 MG Oral Tablet,1,delavirdine mesylate,Drug,RxNorm,Clinical Drug,S,856610,8/2/2009,12/31/2099,NA
+40162292,delavirdine mesylate 200 MG Oral Tablet [Rescriptor],1,delavirdine mesylate,Drug,RxNorm,Branded Drug,S,856612,8/2/2009,12/31/2099,NA
+1724869,didanosine,1,didanosine,Drug,RxNorm,Ingredient,S,3364,1/1/1970,12/31/2099,NA
+19036630,didanosine 0.847 MG/ML Oral Solution [Videx],1,didanosine,Drug,RxNorm,Branded Drug,S,207841,1/1/1970,12/31/2099,NA
+19065536,didanosine 10 MG/ML Oral Solution,1,didanosine,Drug,RxNorm,Clinical Drug,S,252995,1/1/1970,12/31/2099,NA
+19113858,didanosine 10 MG/ML Oral Solution [Videx],1,didanosine,Drug,RxNorm,Branded Drug,S,542059,9/11/2005,12/31/2099,NA
+19076442,didanosine 100 MG Chewable Tablet,1,didanosine,Drug,RxNorm,Clinical Drug,S,309866,1/1/1970,12/31/2099,NA
+19010081,didanosine 100 MG Chewable Tablet [Videx],1,didanosine,Drug,RxNorm,Branded Drug,S,108287,1/1/1970,12/31/2099,NA
+1724918,didanosine 125 MG Delayed Release Oral Capsule,1,didanosine,Drug,RxNorm,Clinical Drug,S,284183,1/1/1970,12/31/2099,NA
+1724921,didanosine 125 MG Delayed Release Oral Capsule [Videx],1,didanosine,Drug,RxNorm,Branded Drug,S,284498,1/1/1970,12/31/2099,NA
+19076447,didanosine 2.5 MG/ML Oral Solution,1,didanosine,Drug,RxNorm,Clinical Drug,S,309871,1/1/1970,12/31/2099,NA
+19036706,didanosine 2.5 MG/ML Oral Solution [Videx],1,didanosine,Drug,RxNorm,Branded Drug,S,207870,1/1/1970,12/31/2099,NA
+1724917,didanosine 200 MG Chewable Tablet [Videx],1,didanosine,Drug,RxNorm,Branded Drug,S,261322,1/1/1970,12/31/2099,NA
+1724920,didanosine 200 MG Delayed Release Oral Capsule,1,didanosine,Drug,RxNorm,Clinical Drug,S,284185,1/1/1970,12/31/2099,NA
+1724942,didanosine 200 MG Delayed Release Oral Capsule [Videx EC],1,didanosine,Drug,RxNorm,Branded Drug,S,284499,1/1/1970,12/31/2099,NA
+1724919,didanosine 250 MG Delayed Release Oral Capsule,1,didanosine,Drug,RxNorm,Clinical Drug,S,284184,1/1/1970,12/31/2099,NA
+19071717,didanosine 250 MG Delayed Release Oral Capsule [Videx EC],1,didanosine,Drug,RxNorm,Branded Drug,S,285027,1/1/1970,12/31/2099,NA
+1724944,didanosine 400 MG Delayed Release Oral Capsule,1,didanosine,Drug,RxNorm,Clinical Drug,S,284988,1/1/1970,12/31/2099,NA
+19123440,didanosine 400 MG Delayed Release Oral Capsule [Viden],1,didanosine,Drug,RxNorm,Branded Drug,S,616428,4/2/2006,12/31/2099,NA
+19071479,didanosine 400 MG Delayed Release Oral Capsule [Videx EC],1,didanosine,Drug,RxNorm,Branded Drug,S,284500,1/1/1970,12/31/2099,NA
+43560385,dolutegravir,1,dolutegravir,Drug,RxNorm,Ingredient,S,1433868,9/3/2013,12/31/2099,NA
+36249782,dolutegravir 10 MG Oral Tablet,1,dolutegravir,Drug,RxNorm,Clinical Drug,S,1796077,8/1/2016,12/31/2099,NA
+36249784,dolutegravir 10 MG Oral Tablet [Tivicay],1,dolutegravir,Drug,RxNorm,Branded Drug,S,1796079,8/1/2016,12/31/2099,NA
+36249786,dolutegravir 25 MG Oral Tablet,1,dolutegravir,Drug,RxNorm,Clinical Drug,S,1796081,8/1/2016,12/31/2099,NA
+36249788,dolutegravir 25 MG Oral Tablet [Tivicay],1,dolutegravir,Drug,RxNorm,Branded Drug,S,1796083,8/1/2016,12/31/2099,NA
+1511085,dolutegravir 50 MG / lamivudine 300 MG Oral Tablet,1,dolutegravir/lamivudine,Drug,RxNorm,Clinical Drug,S,2122519,5/6/2019,12/31/2099,NA
+1511091,dolutegravir 50 MG / lamivudine 300 MG Oral Tablet [Dovato],1,dolutegravir/lamivudine,Drug,RxNorm,Branded Drug,S,2122526,5/6/2019,12/31/2099,NA
+793028,dolutegravir 50 MG / rilpivirine 25 MG Oral Tablet,1,dolutegravir/rilpivirine,Drug,RxNorm,Clinical Drug,S,1989500,2/5/2018,12/31/2099,NA
+793034,dolutegravir 50 MG / rilpivirine 25 MG Oral Tablet [Juluca],1,dolutegravir/rilpivirine,Drug,RxNorm,Branded Drug,S,1989506,2/5/2018,12/31/2099,NA
+43560387,dolutegravir 50 MG Oral Tablet,1,dolutegravir,Drug,RxNorm,Clinical Drug,S,1433873,9/3/2013,12/31/2099,NA
+43560388,dolutegravir 50 MG Oral Tablet [Tivicay],1,dolutegravir,Drug,RxNorm,Branded Drug,S,1433879,9/3/2013,12/31/2099,NA
+35200446,doravirine,1,doravirine,Drug,RxNorm,Ingredient,S,2055755,12/3/2018,12/31/2099,NA
+35200466,doravirine 100 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1,doravirine/lamivudine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,2055813,12/3/2018,12/31/2099,NA
+35200468,doravirine 100 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Delstrigo],1,doravirine/lamivudine/tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,2055815,12/3/2018,12/31/2099,NA
+35200451,doravirine 100 MG Oral Tablet,1,doravirine,Drug,RxNorm,Clinical Drug,S,2055760,12/3/2018,12/31/2099,NA
+35200457,doravirine 100 MG Oral Tablet [Pifeltro],1,doravirine,Drug,RxNorm,Branded Drug,S,2055766,12/3/2018,12/31/2099,NA
+1738135,efavirenz,1,efavirenz,Drug,RxNorm,Ingredient,S,195085,1/1/1970,12/31/2099,NA
+19028908,efavirenz 100 MG Oral Capsule,1,efavirenz,Drug,RxNorm,Clinical Drug,S,205291,1/1/1970,12/31/2099,NA
+1738140,efavirenz 100 MG Oral Capsule [Sustiva],1,efavirenz,Drug,RxNorm,Branded Drug,S,213391,1/1/1970,12/31/2099,NA
+19028907,efavirenz 200 MG Oral Capsule,1,efavirenz,Drug,RxNorm,Clinical Drug,S,205290,1/1/1970,12/31/2099,NA
+19047768,efavirenz 200 MG Oral Capsule [Sustiva],1,efavirenz,Drug,RxNorm,Branded Drug,S,213390,1/1/1970,12/31/2099,NA
+40236068,efavirenz 200 MG Oral Tablet,1,efavirenz,Drug,RxNorm,Clinical Drug,S,1088481,3/6/2011,12/31/2099,NA
+964218,efavirenz 400 MG / lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1,efavirenz/lamivudine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,2001424,4/2/2018,12/31/2099,NA
+1738141,efavirenz 50 MG Oral Capsule [Sustiva],1,efavirenz,Drug,RxNorm,Branded Drug,S,213392,1/1/1970,12/31/2099,NA
+19097780,efavirenz 600 MG,1,efavirenz,Drug,RxNorm,Clinical Drug Comp,S,350652,1/1/1970,12/31/2099,NA
+19124372,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1,efavirenz/emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,643066,8/27/2006,12/31/2099,NA
+19124374,efavirenz 600 MG / emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Atripla],1,efavirenz/emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,643070,8/27/2006,12/31/2099,NA
+19038143,efavirenz 600 MG [Sustiva],1,efavirenz,Drug,RxNorm,Branded Drug Comp,S,575878,9/11/2005,12/31/2099,NA
+1738165,efavirenz 600 MG Oral Tablet,1,efavirenz,Drug,RxNorm,Clinical Drug,S,349477,1/1/1970,12/31/2099,NA
+1738167,efavirenz 600 MG Oral Tablet [Sustiva],1,efavirenz,Drug,RxNorm,Branded Drug,S,352143,1/1/1970,12/31/2099,NA
+42874212,elvitegravir,0,,Drug,RxNorm,Ingredient,S,1306286,9/4/2012,12/31/2099,NA
+45774788,elvitegravir 150 MG Oral Tablet [Vitekta],0,,Drug,RxNorm,Branded Drug,S,1552035,12/1/2014,12/31/2099,NA
+1703069,emtricitabine,1,emtricitabine,Drug,RxNorm,Ingredient,S,276237,1/1/1970,12/31/2099,NA
+1703096,emtricitabine 10 MG/ML Oral Solution,1,emtricitabine,Drug,RxNorm,Clinical Drug,S,597291,1/15/2006,12/31/2099,NA
+1703097,emtricitabine 10 MG/ML Oral Solution [Emtriva],1,emtricitabine,Drug,RxNorm,Branded Drug,S,616148,4/2/2006,12/31/2099,NA
+35606581,emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet,1,emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1744001,5/2/2016,12/31/2099,NA
+35606583,emtricitabine 100 MG / tenofovir disoproxil fumarate 150 MG Oral Tablet [Truvada],1,emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1744003,5/2/2016,12/31/2099,NA
+35606585,emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet,1,emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1744005,5/2/2016,12/31/2099,NA
+35606587,emtricitabine 133 MG / tenofovir disoproxil fumarate 200 MG Oral Tablet [Truvada],1,emtricitabine / tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1744007,5/2/2016,12/31/2099,NA
+35606589,emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet,1,emtricitabine / tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1744009,5/2/2016,12/31/2099,NA
+35606591,emtricitabine 167 MG / tenofovir disoproxil fumarate 250 MG Oral Tablet [Truvada],1,emtricitabine / tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1744011,5/2/2016,12/31/2099,NA
+35605921,emtricitabine 200 MG / rilpivirine 25 MG / tenofovir alafenamide 25 MG Oral Tablet,1,emtricitabine/rilpivirine/tenofovir alafenamide,Drug,RxNorm,Clinical Drug,S,1741733,5/2/2016,12/31/2099,NA
+35605925,emtricitabine 200 MG / rilpivirine 25 MG / tenofovir alafenamide 25 MG Oral Tablet [Odefsey],1,emtricitabine/rilpivirine/tenofovir alafenamide,Drug,RxNorm,Branded Drug,S,1741739,5/2/2016,12/31/2099,NA
+40241982,emtricitabine 200 MG / rilpivirine 25 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1,emtricitabine/rilpivirine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1147334,9/4/2011,12/31/2099,NA
+40241983,emtricitabine 200 MG / rilpivirine 25 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Complera],1,emtricitabine/rilpivirine/tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1147337,9/4/2011,12/31/2099,NA
+35604225,emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet,1,emtricitabine/tenofovir alafenamide,Drug,RxNorm,Clinical Drug,S,1747691,5/2/2016,12/31/2099,NA
+35604229,emtricitabine 200 MG / tenofovir alafenamide 25 MG Oral Tablet [Descovy],1,emtricitabine/tenofovir alafenamide,Drug,RxNorm,Branded Drug,S,1747697,5/2/2016,12/31/2099,NA
+1703093,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1,emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,476556,1/1/1970,12/31/2099,NA
+1710316,emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Truvada],1,emtricitabine/tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,639888,7/30/2006,12/31/2099,NA
+19102500,emtricitabine 200 MG Oral Capsule,1,emtricitabine,Drug,RxNorm,Clinical Drug,S,403875,1/1/1970,12/31/2099,NA
+19102831,emtricitabine 200 MG Oral Capsule [Emtriva],1,emtricitabine,Drug,RxNorm,Branded Drug,S,404587,1/1/1970,12/31/2099,NA
+1717002,enfuvirtide,1,enfuvirtide,Drug,RxNorm,Ingredient,S,139896,1/1/1970,12/31/2099,NA
+19102177,enfuvirtide 90 MG Injection,1,enfuvirtide,Drug,RxNorm,Clinical Drug,S,401981,1/1/1970,12/31/2099,NA
+19102768,enfuvirtide 90 MG Injection [Fuzeon],1,enfuvirtide,Drug,RxNorm,Branded Drug,S,404460,1/1/1970,12/31/2099,NA
+1758536,etravirine,1,etravirine,Drug,RxNorm,Ingredient,S,475969,3/2/2008,12/31/2099,NA
+1758538,etravirine 100 MG Oral Tablet,1,etravirine,Drug,RxNorm,Clinical Drug,S,754761,3/2/2008,12/31/2099,NA
+1758539,etravirine 100 MG Oral Tablet [Intelence],1,etravirine,Drug,RxNorm,Branded Drug,S,758555,3/2/2008,12/31/2099,NA
+40234301,etravirine 200 MG Oral Tablet,1,etravirine,Drug,RxNorm,Clinical Drug,S,1052658,2/6/2011,12/31/2099,NA
+40234302,etravirine 200 MG Oral Tablet [Intelence],1,etravirine,Drug,RxNorm,Branded Drug,S,1052660,2/6/2011,12/31/2099,NA
+1736829,fosamprenavir,1,fosamprenavir,Drug,RxNorm,Ingredient,S,358262,1/1/1970,12/31/2099,NA
+1736925,fosamprenavir 50 MG/ML Oral Suspension [Lexiva],1,fosamprenavir,Drug,RxNorm,Branded Drug,S,723827,7/29/2007,12/31/2099,NA
+19102211,fosamprenavir 700 MG Oral Tablet,1,fosamprenavir,Drug,RxNorm,Clinical Drug,S,402109,1/1/1970,12/31/2099,NA
+19102212,fosamprenavir 700 MG Oral Tablet [Lexiva],1,fosamprenavir,Drug,RxNorm,Branded Drug,S,402110,1/1/1970,12/31/2099,NA
+1711523,indinavir,1,indinavir,Drug,RxNorm,Ingredient,S,114289,1/1/1970,12/31/2099,NA
+19078496,indinavir 200 MG Oral Capsule,1,indinavir,Drug,RxNorm,Clinical Drug,S,310986,1/1/1970,12/31/2099,NA
+1711524,indinavir 200 MG Oral Capsule [Crixivan],1,indinavir,Drug,RxNorm,Branded Drug,S,153127,1/1/1970,12/31/2099,NA
+19047371,indinavir 400 MG [Crixivan],1,indinavir,Drug,RxNorm,Branded Drug Comp,S,565179,9/11/2005,12/31/2099,NA
+19078498,indinavir 400 MG Oral Capsule,1,indinavir,Drug,RxNorm,Clinical Drug,S,310988,1/1/1970,12/31/2099,NA
+1711525,indinavir 400 MG Oral Capsule [Crixivan],1,indinavir,Drug,RxNorm,Branded Drug,S,153128,1/1/1970,12/31/2099,NA
+1704183,lamivudine,0,,Drug,RxNorm,Ingredient,S,68244,1/1/1970,12/31/2099,NA
+1704187,lamivudine 10 MG/ML Oral Solution,0,,Drug,RxNorm,Clinical Drug,S,199148,1/1/1970,12/31/2099,NA
+1704185,lamivudine 10 MG/ML Oral Solution [Epivir],0,,Drug,RxNorm,Branded Drug,S,152932,1/1/1970,12/31/2099,NA
+19029028,lamivudine 100 MG Oral Tablet,0,,Drug,RxNorm,Clinical Drug,S,205328,1/1/1970,12/31/2099,NA
+1704190,lamivudine 100 MG Oral Tablet [Epivir HBV],0,,Drug,RxNorm,Branded Drug,S,213483,1/1/1970,12/31/2099,NA
+1704214,lamivudine 150 MG,0,,Drug,RxNorm,Clinical Drug Comp,S,316127,1/1/1970,12/31/2099,NA
+19120186,lamivudine 150 MG / zidovudine 300 MG [Combivir],1,lamivudine/zidovudine,Drug,RxNorm,Branded Drug Comp,S,573017,9/11/2005,12/31/2099,NA
+19022896,lamivudine 150 MG / zidovudine 300 MG Oral Tablet,1,lamivudine/zidovudine,Drug,RxNorm,Clinical Drug,S,200082,1/1/1970,12/31/2099,NA
+19047527,lamivudine 150 MG / zidovudine 300 MG Oral Tablet [Combivir],1,lamivudine/zidovudine,Drug,RxNorm,Branded Drug,S,213088,1/1/1970,12/31/2099,NA
+19038760,lamivudine 150 MG [Epivir],0,,Drug,RxNorm,Branded Drug Comp,S,565111,9/11/2005,12/31/2099,NA
+1704186,lamivudine 150 MG Oral Tablet,0,,Drug,RxNorm,Clinical Drug,S,199147,1/1/1970,12/31/2099,NA
+1704184,lamivudine 150 MG Oral Tablet [Epivir],0,,Drug,RxNorm,Branded Drug,S,152931,1/1/1970,12/31/2099,NA
+42543872,lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet,1,lamivudine/tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,2003249,5/7/2018,12/31/2099,NA
+42543878,lamivudine 300 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Cimduo],1,lamivudine/tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,2003255,5/7/2018,12/31/2099,NA
+1704217,lamivudine 300 MG Oral Tablet,0,,Drug,RxNorm,Clinical Drug,S,349491,1/1/1970,12/31/2099,NA
+19098455,lamivudine 300 MG Oral Tablet [Epivir],0,,Drug,RxNorm,Branded Drug,S,352230,1/1/1970,12/31/2099,NA
+1704212,lamivudine 5 MG/ML Oral Solution,0,,Drug,RxNorm,Clinical Drug,S,242692,1/1/1970,12/31/2099,NA
+1704191,lamivudine 5 MG/ML Oral Solution [Epivir HBV],0,,Drug,RxNorm,Branded Drug,S,213484,1/1/1970,12/31/2099,NA
+1738170,lopinavir,1,lopinavir,Drug,RxNorm,Ingredient,S,195088,1/1/1970,12/31/2099,NA
+1748985,lopinavir 100 MG / ritonavir 25 MG Oral Tablet,1,lopinavir/ritonavir,Drug,RxNorm,Clinical Drug,S,746645,12/30/2007,12/31/2099,NA
+1748987,lopinavir 100 MG / ritonavir 25 MG Oral Tablet [Kaletra],1,lopinavir/ritonavir,Drug,RxNorm,Branded Drug,S,847745,5/3/2009,12/31/2099,NA
+1748955,lopinavir 133 MG / ritonavir 33.3 MG Oral Capsule,1,lopinavir/ritonavir,Drug,RxNorm,Clinical Drug,S,311368,1/1/1970,12/31/2099,NA
+1748989,lopinavir 133 MG / ritonavir 33.3 MG Oral Capsule [Kaletra],1,lopinavir/ritonavir,Drug,RxNorm,Branded Drug,S,847753,5/3/2009,12/31/2099,NA
+19048071,lopinavir 200 MG / ritonavir 50 MG [Kaletra],1,lopinavir/ritonavir,Drug,RxNorm,Branded Drug Comp,S,847739,5/3/2009,12/31/2099,NA
+19122186,lopinavir 200 MG / ritonavir 50 MG Oral Tablet,1,lopinavir/ritonavir,Drug,RxNorm,Clinical Drug,S,597730,1/15/2006,12/31/2099,NA
+1748986,lopinavir 200 MG / ritonavir 50 MG Oral Tablet [Kaletra],1,lopinavir/ritonavir,Drug,RxNorm,Branded Drug,S,847741,5/3/2009,12/31/2099,NA
+1748956,lopinavir 80 MG/ML / ritonavir 20 MG/ML Oral Solution,1,lopinavir/ritonavir,Drug,RxNorm,Clinical Drug,S,311369,1/1/1970,12/31/2099,NA
+1748988,lopinavir 80 MG/ML / ritonavir 20 MG/ML Oral Solution [Kaletra],1,lopinavir/ritonavir,Drug,RxNorm,Branded Drug,S,847749,5/3/2009,12/31/2099,NA
+1787101,maraviroc,1,maraviroc,Drug,RxNorm,Ingredient,S,620216,9/30/2007,12/31/2099,NA
+1787123,maraviroc 150 MG Oral Tablet,1,maraviroc,Drug,RxNorm,Clinical Drug,S,728223,9/30/2007,12/31/2099,NA
+19127303,maraviroc 150 MG Oral Tablet [Selzentry],1,maraviroc,Drug,RxNorm,Branded Drug,S,729201,9/30/2007,12/31/2099,NA
+1718479,maraviroc 25 MG Oral Tablet [Selzentry],1,maraviroc,Drug,RxNorm,Branded Drug,S,1857913,1/3/2017,12/31/2099,NA
+1787125,maraviroc 300 MG Oral Tablet,1,maraviroc,Drug,RxNorm,Clinical Drug,S,728225,9/30/2007,12/31/2099,NA
+19127305,maraviroc 300 MG Oral Tablet [Selzentry],1,maraviroc,Drug,RxNorm,Branded Drug,S,729203,9/30/2007,12/31/2099,NA
+1715472,nelfinavir,1,nelfinavir,Drug,RxNorm,Ingredient,S,134527,1/1/1970,12/31/2099,NA
+1715476,nelfinavir 0.05 MG/MG Oral Powder,1,nelfinavir,Drug,RxNorm,Clinical Drug,S,311925,1/1/1970,12/31/2099,NA
+40165043,nelfinavir 0.05 MG/MG Oral Powder [Viracept],1,nelfinavir,Drug,RxNorm,Branded Drug,S,861032,9/6/2009,12/31/2099,NA
+1715475,nelfinavir 250 MG Oral Tablet,1,nelfinavir,Drug,RxNorm,Clinical Drug,S,311924,1/1/1970,12/31/2099,NA
+1715473,nelfinavir 250 MG Oral Tablet [Viracept],1,nelfinavir,Drug,RxNorm,Branded Drug,S,212118,1/1/1970,12/31/2099,NA
+19102557,nelfinavir 625 MG Oral Tablet,1,nelfinavir,Drug,RxNorm,Clinical Drug,S,403978,1/1/1970,12/31/2099,NA
+19113977,nelfinavir 625 MG Oral Tablet [Viracept],1,nelfinavir,Drug,RxNorm,Branded Drug,S,542370,9/11/2005,12/31/2099,NA
+1769389,nevirapine,1,nevirapine,Drug,RxNorm,Ingredient,S,53654,1/1/1970,12/31/2099,NA
+1769413,nevirapine 10 MG/ML Oral Suspension,1,nevirapine,Drug,RxNorm,Clinical Drug,S,311943,1/1/1970,12/31/2099,NA
+1769390,nevirapine 200 MG Oral Tablet,1,nevirapine,Drug,RxNorm,Clinical Drug,S,199422,1/1/1970,12/31/2099,NA
+1769391,nevirapine 200 MG Oral Tablet [Viramune],1,nevirapine,Drug,RxNorm,Branded Drug,S,211327,1/1/1970,12/31/2099,NA
+1712889,raltegravir,1,raltegravir,Drug,RxNorm,Ingredient,S,719872,12/30/2007,12/31/2099,NA
+42707686,raltegravir 100 MG Chewable Tablet,1,raltegravir,Drug,RxNorm,Clinical Drug,S,1235588,5/7/2012,12/31/2099,NA
+42707687,raltegravir 100 MG Chewable Tablet [Isentress],1,raltegravir,Drug,RxNorm,Branded Drug,S,1235591,5/7/2012,12/31/2099,NA
+44785498,raltegravir 100 MG Granules for Oral Suspension,1,raltegravir,Drug,RxNorm,Clinical Drug,S,1486838,2/3/2014,12/31/2099,NA
+1712891,raltegravir 400 MG Oral Tablet,1,raltegravir,Drug,RxNorm,Clinical Drug,S,744842,12/30/2007,12/31/2099,NA
+1712912,raltegravir 400 MG Oral Tablet [Isentress],1,raltegravir,Drug,RxNorm,Branded Drug,S,744846,12/30/2007,12/31/2099,NA
+1592274,raltegravir 600 MG Oral Tablet,1,raltegravir,Drug,RxNorm,Clinical Drug,S,1924313,8/7/2017,12/31/2099,NA
+1592276,raltegravir 600 MG Oral Tablet [Isentress],1,raltegravir,Drug,RxNorm,Branded Drug,S,1924315,8/7/2017,12/31/2099,NA
+40238930,rilpivirine,1,rilpivirine,Drug,RxNorm,Ingredient,S,1102270,6/5/2011,12/31/2099,NA
+40238932,rilpivirine 25 MG Oral Tablet,1,rilpivirine,Drug,RxNorm,Clinical Drug,S,1102273,6/5/2011,12/31/2099,NA
+40238933,rilpivirine 25 MG Oral Tablet [Edurant],1,rilpivirine,Drug,RxNorm,Branded Drug,S,1102277,6/5/2011,12/31/2099,NA
+1748921,ritonavir,1,ritonavir,Drug,RxNorm,Ingredient,S,85762,1/1/1970,12/31/2099,NA
+19082373,ritonavir 100 MG Oral Capsule,1,ritonavir,Drug,RxNorm,Clinical Drug,S,317150,1/1/1970,12/31/2099,NA
+19016698,ritonavir 100 MG Oral Capsule [Norvir],1,ritonavir,Drug,RxNorm,Branded Drug,S,152970,1/1/1970,12/31/2099,NA
+1592438,ritonavir 100 MG Oral Powder [Norvir],1,ritonavir,Drug,RxNorm,Branded Drug,S,1926069,8/7/2017,12/31/2099,NA
+40171778,ritonavir 100 MG Oral Tablet,1,ritonavir,Drug,RxNorm,Clinical Drug,S,900575,2/28/2010,12/31/2099,NA
+40171779,ritonavir 100 MG Oral Tablet [Norvir],1,ritonavir,Drug,RxNorm,Branded Drug,S,900577,2/28/2010,12/31/2099,NA
+1748954,ritonavir 80 MG/ML Oral Solution,1,ritonavir,Drug,RxNorm,Clinical Drug,S,199249,1/1/1970,12/31/2099,NA
+1748953,ritonavir 80 MG/ML Oral Solution [Norvir],1,ritonavir,Drug,RxNorm,Branded Drug,S,152971,1/1/1970,12/31/2099,NA
+1746244,saquinavir,1,saquinavir,Drug,RxNorm,Ingredient,S,83395,1/1/1970,12/31/2099,NA
+19022976,saquinavir 200 MG Oral Capsule,1,saquinavir,Drug,RxNorm,Clinical Drug,S,200105,1/1/1970,12/31/2099,NA
+19043586,saquinavir 200 MG Oral Capsule [Fortovase],1,saquinavir,Drug,RxNorm,Branded Drug,S,210201,1/1/1970,12/31/2099,NA
+40166029,saquinavir 200 MG Oral Capsule [Invirase],1,saquinavir,Drug,RxNorm,Branded Drug,S,859861,9/6/2009,12/31/2099,NA
+40166032,saquinavir mesylate 500 MG Oral Tablet,1,saquinavir mesylate,Drug,RxNorm,Clinical Drug,S,859863,9/6/2009,12/31/2099,NA
+40166033,saquinavir mesylate 500 MG Oral Tablet [Invirase],1,saquinavir mesylate,Drug,RxNorm,Branded Drug,S,859865,9/6/2009,12/31/2099,NA
+1781406,stavudine,1,stavudine,Drug,RxNorm,Ingredient,S,59763,1/1/1970,12/31/2099,NA
+1781436,stavudine 1 MG/ML Oral Solution,1,stavudine,Drug,RxNorm,Clinical Drug,S,315217,1/1/1970,12/31/2099,NA
+1781411,stavudine 1 MG/ML Oral Solution [Zerit],1,stavudine,Drug,RxNorm,Branded Drug,S,153652,1/1/1970,12/31/2099,NA
+19079683,stavudine 15 MG Oral Capsule,1,stavudine,Drug,RxNorm,Clinical Drug,S,313107,1/1/1970,12/31/2099,NA
+1781407,stavudine 15 MG Oral Capsule [Zerit],1,stavudine,Drug,RxNorm,Branded Drug,S,152941,1/1/1970,12/31/2099,NA
+19079684,stavudine 20 MG Oral Capsule,1,stavudine,Drug,RxNorm,Clinical Drug,S,313108,1/1/1970,12/31/2099,NA
+1781408,stavudine 20 MG Oral Capsule [Zerit],1,stavudine,Drug,RxNorm,Branded Drug,S,152942,1/1/1970,12/31/2099,NA
+19079685,stavudine 30 MG Oral Capsule,1,stavudine,Drug,RxNorm,Clinical Drug,S,313109,1/1/1970,12/31/2099,NA
+1781409,stavudine 30 MG Oral Capsule [Zerit],1,stavudine,Drug,RxNorm,Branded Drug,S,152943,1/1/1970,12/31/2099,NA
+19085390,stavudine 40 MG,1,stavudine,Drug,RxNorm,Clinical Drug Comp,S,330498,1/1/1970,12/31/2099,NA
+19116993,stavudine 40 MG [Zerit],1,stavudine,Drug,RxNorm,Branded Drug Comp,S,565120,9/11/2005,12/31/2099,NA
+19079686,stavudine 40 MG Oral Capsule,1,stavudine,Drug,RxNorm,Clinical Drug,S,313110,1/1/1970,12/31/2099,NA
+1781410,stavudine 40 MG Oral Capsule [Zerit],1,stavudine,Drug,RxNorm,Branded Drug,S,152944,1/1/1970,12/31/2099,NA
+1710281,tenofovir disoproxil,1,tenofovir disoproxil,Drug,RxNorm,Ingredient,S,300195,1/1/1970,12/31/2099,NA
+42708120,tenofovir disoproxil fumarate 0.04 MG/MG Oral Powder,1,tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1243343,5/7/2012,12/31/2099,NA
+42708121,tenofovir disoproxil fumarate 0.04 MG/MG Oral Powder [Viread],1,tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1243346,5/7/2012,12/31/2099,NA
+42708114,tenofovir disoproxil fumarate 150 MG Oral Tablet,1,tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1243324,5/7/2012,12/31/2099,NA
+42708115,tenofovir disoproxil fumarate 150 MG Oral Tablet [Viread],1,tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1243326,5/7/2012,12/31/2099,NA
+42708116,tenofovir disoproxil fumarate 200 MG Oral Tablet,1,tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1243328,5/7/2012,12/31/2099,NA
+42708117,tenofovir disoproxil fumarate 200 MG Oral Tablet [Viread],1,tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1243330,5/7/2012,12/31/2099,NA
+42708096,tenofovir disoproxil fumarate 250 MG Oral Tablet,1,tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,1243227,5/7/2012,12/31/2099,NA
+42708097,tenofovir disoproxil fumarate 250 MG Oral Tablet [Viread],1,tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,1243229,5/7/2012,12/31/2099,NA
+1710312,tenofovir disoproxil fumarate 300 MG Oral Tablet,1,tenofovir disoproxil fumarate,Drug,RxNorm,Clinical Drug,S,349251,1/1/1970,12/31/2099,NA
+19098330,tenofovir disoproxil fumarate 300 MG Oral Tablet [Viread],1,tenofovir disoproxil fumarate,Drug,RxNorm,Branded Drug,S,352050,1/1/1970,12/31/2099,NA
+1737001,tipranavir 250 MG Oral Capsule,1,tipranavir,Drug,RxNorm,Clinical Drug,S,577212,11/13/2005,12/31/2099,NA
+19122565,tipranavir 250 MG Oral Capsule [Aptivus],1,tipranavir,Drug,RxNorm,Branded Drug,S,603378,2/26/2006,12/31/2099,NA
+1724827,zalcitabine,1,zalcitabine,Drug,RxNorm,Ingredient,S,3363,1/1/1970,12/31/2099,NA
+19079870,zalcitabine 0.75 MG Oral Tablet,1,zalcitabine,Drug,RxNorm,Clinical Drug,S,313760,1/1/1970,12/31/2099,NA
+19010236,zalcitabine 0.75 MG Oral Tablet [Hivid],1,zalcitabine,Drug,RxNorm,Branded Drug,S,108473,1/1/1970,12/31/2099,NA
+1710612,zidovudine,1,zidovudine,Drug,RxNorm,Ingredient,S,11413,1/1/1970,12/31/2099,NA
+19129077,zidovudine 10 MG/ML Oral Solution,1,zidovudine,Drug,RxNorm,Clinical Drug,S,756209,3/2/2008,12/31/2099,NA
+1710659,zidovudine 10 MG/ML Oral Solution [Retrovir],1,zidovudine,Drug,RxNorm,Branded Drug,S,755298,3/2/2008,12/31/2099,NA
+19117688,zidovudine 100 MG [Retrovir],1,zidovudine,Drug,RxNorm,Branded Drug Comp,S,566052,9/11/2005,12/31/2099,NA
+1710616,zidovudine 100 MG Oral Capsule,1,zidovudine,Drug,RxNorm,Clinical Drug,S,198352,1/1/1970,12/31/2099,NA
+19025941,zidovudine 100 MG Oral Capsule [Retrovir],1,zidovudine,Drug,RxNorm,Branded Drug,S,201907,1/1/1970,12/31/2099,NA
+1710617,zidovudine 300 MG Oral Tablet,1,zidovudine,Drug,RxNorm,Clinical Drug,S,199663,1/1/1970,12/31/2099,NA
+1710615,zidovudine 300 MG Oral Tablet [Retrovir],1,zidovudine,Drug,RxNorm,Branded Drug,S,152772,1/1/1970,12/31/2099,NA
+1718459,zidovudine Injection,1,zidovudine,Drug,RxNorm,Clinical Drug Form,S,1857601,1/3/2017,12/31/2099,NA
