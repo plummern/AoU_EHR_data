@@ -1,0 +1,140 @@
+﻿ATC code,Name
+J05,ANTIVIRALS FOR SYSTEMIC USE
+J05A,DIRECT ACTING ANTIVIRALS
+J05AA,Thiosemicarbazones
+J05AA01 ,metisazone
+J05AB,Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+J05AB01 ,aciclovir
+J05AB02 ,idoxuridine
+J05AB03 ,vidarabine
+J05AB06 ,ganciclovir
+J05AB09 ,famciclovir
+J05AB11 ,valaciclovir
+J05AB12 ,cidofovir
+J05AB13 ,penciclovir
+J05AB14 ,valganciclovir
+J05AB15 ,brivudine
+J05AB16 ,remdesivir
+J05AB17 ,brincidofovir
+J05AB18 ,molnupiravir
+J05AC,Cyclic amines
+J05AC02 ,rimantadine
+J05AC03 ,tromantadine
+J05AD,Phosphonic acid derivatives
+J05AD01 ,foscarnet
+J05AD02 ,fosfonet
+J05AE,Protease inhibitors
+J05AE01 ,saquinavir
+J05AE02 ,indinavir
+J05AE03 ,ritonavir
+J05AE04 ,nelfinavir
+J05AE05 ,amprenavir
+J05AE07 ,fosamprenavir
+J05AE08 ,atazanavir
+J05AE09 ,tipranavir
+J05AE10 ,darunavir
+J05AE16 ,ensitrelvir
+J05AE30 ,nirmatrelvir and ritonavir
+J05AF,Nucleoside and nucleotide reverse transcriptase inhibitors
+J05AF01 ,zidovudine
+J05AF02 ,didanosine
+J05AF03 ,zalcitabine
+J05AF04 ,stavudine
+J05AF05 ,lamivudine
+J05AF06 ,abacavir
+J05AF07 ,tenofovir disoproxil
+J05AF08 ,adefovir dipivoxil
+J05AF09 ,emtricitabine
+J05AF10 ,entecavir
+J05AF11 ,telbivudine
+J05AF12 ,clevudine
+J05AF13 ,tenofovir alafenamide
+J05AG,Non-nucleoside reverse transcriptase inhibitors
+J05AG01 ,nevirapine
+J05AG02 ,delavirdine
+J05AG03 ,efavirenz
+J05AG04 ,etravirine
+J05AG05 ,rilpivirine
+J05AG06 ,doravirine
+J05AH,Neuraminidase inhibitors
+J05AH01 ,zanamivir
+J05AH02 ,oseltamivir
+J05AH03 ,peramivir
+J05AH04 ,laninamivir
+J05AJ,Integrase inhibitors
+J05AJ01 ,raltegravir
+J05AJ02 ,elvitegravir
+J05AJ03 ,dolutegravir
+J05AJ04 ,cabotegravir
+J05AP,Antivirals for treatment of HCV infections
+J05AP01 ,ribavirin
+J05AP02 ,telaprevir
+J05AP03 ,boceprevir
+J05AP04 ,faldaprevir
+J05AP05 ,simeprevir
+J05AP06 ,asunaprevir
+J05AP07 ,daclatasvir
+J05AP08 ,sofosbuvir
+J05AP09 ,dasabuvir
+J05AP10 ,elbasvir
+J05AP11 ,grazoprevir
+J05AP12 ,coblopasvir
+J05AP13 ,ravidasvir
+J05AP51 ,sofosbuvir and ledipasvir
+J05AP52 ,"dasabuvir, ombitasvir, paritaprevir and ritonavir"
+J05AP53 ,"ombitasvir, paritaprevir and ritonavir"
+J05AP54 ,elbasvir and grazoprevir
+J05AP55 ,sofosbuvir and velpatasvir
+J05AP56 ,"sofosbuvir, velpatasvir and voxilaprevir"
+J05AP57 ,glecaprevir and pibrentasvir
+J05AP58 ,"daclatasvir, asunaprevir and beclabuvir"
+J05AR,"Antivirals for treatment of HIV infections, combinations"
+J05AR01 ,zidovudine and lamivudine
+J05AR02 ,lamivudine and abacavir
+J05AR03 ,tenofovir disoproxil and emtricitabine
+J05AR04 ,"zidovudine, lamivudine and abacavir"
+J05AR05 ,"zidovudine, lamivudine and nevirapine"
+J05AR06 ,"emtricitabine, tenofovir disoproxil and efavirenz"
+J05AR07 ,"stavudine, lamivudine and nevirapine"
+J05AR08 ,"emtricitabine, tenofovir disoproxil and rilpivirine"
+J05AR09 ,"emtricitabine, tenofovir disoproxil, elvitegravir and cobicistat"
+J05AR10 ,lopinavir and ritonavir
+J05AR11 ,"lamivudine, tenofovir disoproxil and efavirenz"
+J05AR12 ,lamivudine and tenofovir disoproxil
+J05AR13 ,"lamivudine, abacavir and dolutegravir"
+J05AR14 ,darunavir and cobicistat
+J05AR15 ,atazanavir and cobicistat
+J05AR16 ,lamivudine and raltegravir
+J05AR17 ,emtricitabine and tenofovir alafenamide
+J05AR18 ,"emtricitabine, tenofovir alafenamide, elvitegravir and cobicistat"
+J05AR19 ,"emtricitabine, tenofovir alafenamide and rilpivirine"
+J05AR20 ,"emtricitabine, tenofovir alafenamide and bictegravir"
+J05AR21 ,dolutegravir and rilpivirine
+J05AR22 ,"emtricitabine, tenofovir alafenamide, darunavir and cobicistat"
+J05AR23 ,atazanavir and ritonavir
+J05AR24 ,"lamivudine, tenofovir disoproxil and doravirine"
+J05AR25 ,lamivudine and dolutegravir
+J05AR26 ,darunavir and ritonavir
+J05AR27 ,"lamivudine, tenofovir disoproxil and dolutegravir"
+J05AR28 ,stavudine and lamivudine
+J05AX,Other antivirals
+J05AX01 ,moroxydine
+J05AX02 ,lysozyme
+J05AX05 ,inosine pranobex
+J05AX06 ,pleconaril
+J05AX07 ,enfuvirtide
+J05AX09 ,maraviroc
+J05AX10 ,maribavir
+J05AX13 ,umifenovir
+J05AX17 ,enisamium iodide
+J05AX18 ,letermovir
+J05AX19 ,tilorone
+J05AX21 ,pentanedioic acid imidazolyl ethanamide
+J05AX23 ,ibalizumab
+J05AX24 ,tecovirimat
+J05AX25 ,baloxavir marboxil
+J05AX26 ,amenamevir
+J05AX27 ,favipiravir
+J05AX28 ,bulevirtide
+J05AX29 ,fostemsavir
+J05AX31 ,lenacapavir
