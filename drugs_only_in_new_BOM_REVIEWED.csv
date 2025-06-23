@@ -1,0 +1,235 @@
+concept_id,concept_name,drugs_to_keep,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason
+19129945,"{1 (1.2 ML) (interferon alfa-2b 15000000 UNT/ML Injectable Solution [Intron A]) / 70 (ribavirin 200 MG Oral Capsule [Rebetol]) } Pack [Rebetron Combination Package for Patients < = 75 KG, Intron A 15,000,000 UNT/ML Multi-Dose Pen / 70 Rebetol Capsules]",0,Drug,RxNorm,Branded Pack,S,794070,4/27/2008,12/31/2099,NA
+19129951,"{1 (1.2 ML) (interferon alfa-2b 15000000 UNT/ML Injectable Solution [Intron A]) / 84 (ribavirin 200 MG Oral Capsule [Rebetol]) } Pack [Rebetron Combination Package for Patients > = 75 KG, Intron A 15,000,000 UNT/ML Multi-Dose Pen / 84 Rebetol Capsules]",0,Drug,RxNorm,Branded Pack,S,794076,4/27/2008,12/31/2099,NA
+19129943,{1 (1.2 ML) (interferon alfa-2b 15000000 UNT/ML Injectable Solution) / 70 (ribavirin 200 MG Oral Capsule) } Pack,0,Drug,RxNorm,Clinical Pack,S,794068,4/27/2008,12/31/2099,NA
+19129950,{1 (1.2 ML) (interferon alfa-2b 15000000 UNT/ML Injectable Solution) / 84 (ribavirin 200 MG Oral Capsule) } Pack,0,Drug,RxNorm,Clinical Pack,S,794075,4/27/2008,12/31/2099,NA
+35201905,{2 (baloxavir marboxil 20 MG Oral Tablet [Xofluza]) } Pack [Xofluza 40 MG Dose Pack (2 x 20 MG Tablets)],0,Drug,RxNorm,Branded Pack,S,2100099,12/3/2018,12/31/2099,NA
+35201901,{2 (baloxavir marboxil 20 MG Oral Tablet) } Pack,0,Drug,RxNorm,Clinical Pack,S,2100024,12/3/2018,12/31/2099,NA
+35201906,{2 (baloxavir marboxil 40 MG Oral Tablet [Xofluza]) } Pack [Xofluza 80 MG Dose Pack (2 x 40 MG Tablets)],0,Drug,RxNorm,Branded Pack,S,2100100,12/3/2018,12/31/2099,NA
+35201902,{2 (baloxavir marboxil 40 MG Oral Tablet) } Pack,0,Drug,RxNorm,Clinical Pack,S,2100026,12/3/2018,12/31/2099,NA
+1592623,{28 (ribavirin 200 MG Oral Tablet [Ribasphere]) / 28 (ribavirin 400 MG Oral Tablet [Ribasphere]) } Pack [Ribasphere RibaPak 600],0,Drug,RxNorm,Branded Pack,S,1863148,8/7/2017,12/31/2099,NA
+44785915,{28 (ribavirin 400 MG Oral Tablet [Moderiba]) / 28 (ribavirin 600 MG Oral Tablet [Moderiba]) } Pack [Moderiba 1000 Dose Pack],0,Drug,RxNorm,Branded Pack,S,1487500,3/3/2014,12/31/2099,NA
+40171346,{28 (ribavirin 400 MG Oral Tablet [Ribasphere]) / 28 (ribavirin 600 MG Oral Tablet [Ribasphere]) } Pack [Ribasphere RibaPak 1000],0,Drug,RxNorm,Branded Pack,S,896790,1/31/2010,12/31/2099,NA
+44785486,{56 (ribavirin 400 MG Oral Tablet [Moderiba]) } Pack [Moderiba 800 Dose Pack],0,Drug,RxNorm,Branded Pack,S,1486198,2/3/2014,12/31/2099,NA
+40174584,{56 (ribavirin 400 MG Oral Tablet [Ribasphere]) } Pack [Ribasphere RibaPak 800],0,Drug,RxNorm,Branded Pack,S,902312,4/4/2010,12/31/2099,NA
+19129147,{56 (ribavirin 400 MG Oral Tablet) } Pack,0,Drug,RxNorm,Clinical Pack,S,757599,3/2/2008,12/31/2099,NA
+44785487,{56 (ribavirin 600 MG Oral Tablet [Moderiba]) } Pack [Moderiba 1200 Dose Pack],0,Drug,RxNorm,Branded Pack,S,1486203,2/3/2014,12/31/2099,NA
+40174585,{56 (ribavirin 600 MG Oral Tablet [Ribasphere]) } Pack [Ribasphere RibaPak 1200],0,Drug,RxNorm,Branded Pack,S,902313,4/4/2010,12/31/2099,NA
+19129145,{56 (ribavirin 600 MG Oral Tablet) } Pack,0,Drug,RxNorm,Clinical Pack,S,757597,3/2/2008,12/31/2099,NA
+35606521,10 ML acyclovir 50 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,1734932,5/2/2016,12/31/2099,NA
+964329,10 ML ganciclovir 50 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,1999531,4/2/2018,12/31/2099,NA
+1146782,12 HR fostemsavir 600 MG Extended Release Oral Tablet,0,Drug,RxNorm,Quant Clinical Drug,S,2380549,8/3/2020,12/31/2099,NA
+1146783,12 HR fostemsavir 600 MG Extended Release Oral Tablet [Rukobia],0,Drug,RxNorm,Quant Branded Drug,S,2380551,8/3/2020,12/31/2099,NA
+1708750,20 ACTUAT zanamivir 5 MG/ACTUAT Dry Powder Inhaler,0,Drug,RxNorm,Quant Clinical Drug,S,759471,3/2/2008,12/31/2099,NA
+1708751,20 ACTUAT zanamivir 5 MG/ACTUAT Dry Powder Inhaler [Relenza],0,Drug,RxNorm,Quant Branded Drug,S,759473,3/2/2008,12/31/2099,NA
+35606523,20 ML acyclovir 50 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,1734934,5/2/2016,12/31/2099,NA
+40167571,20 ML peramivir 10 MG/ML Injection [Rapivab],0,Drug,RxNorm,Quant Branded Drug,S,876203,11/1/2009,12/31/2099,NA
+1146730,20 ML remdesivir 5 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,2367758,8/3/2020,12/31/2099,NA
+37003601,20 ML remdesivir 5 MG/ML Injection [Veklury],0,Drug,RxNorm,Quant Branded Drug,S,2395504,1/4/2021,12/31/2099,NA
+792941,24 ML letermovir 20 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,1988660,2/5/2018,12/31/2099,NA
+792942,24 ML letermovir 20 MG/ML Injection [Prevymis],0,Drug,RxNorm,Quant Branded Drug,S,1988661,2/5/2018,12/31/2099,NA
+35606301,250 ML foscarnet sodium 24 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,1734377,5/2/2016,12/31/2099,NA
+40163602,250 ML foscarnet sodium 24 MG/ML Injection [Foscavir],0,Drug,RxNorm,Quant Branded Drug,S,855613,8/2/2009,12/31/2099,NA
+1592412,250 ML ganciclovir 2 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,1872065,8/7/2017,12/31/2099,NA
+702659,3 ML cabotegravir 200 MG/ML Injection,1,Drug,RxNorm,Quant Clinical Drug,S,2588077,1/3/2022,12/31/2099,NA
+1745073,5 ML cidofovir 75 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,199388,1/1/1970,12/31/2099,NA
+1745074,5 ML cidofovir 75 MG/ML Injection [Vistide],0,Drug,RxNorm,Quant Branded Drug,S,211248,1/1/1970,12/31/2099,NA
+35606305,500 ML foscarnet sodium 24 MG/ML Injection,0,Drug,RxNorm,Quant Clinical Drug,S,1734383,5/2/2016,12/31/2099,NA
+1703687,acyclovir,0,Drug,RxNorm,Ingredient,S,281,1/1/1970,12/31/2099,NA
+19117738,acyclovir 0.03 MG/MG [Zovirax],0,Drug,RxNorm,Branded Drug Comp,S,566108,9/11/2005,12/31/2099,NA
+19093623,acyclovir 0.05 MG/MG,0,Drug,RxNorm,Clinical Drug Comp,S,340089,1/1/1970,12/31/2099,NA
+19119303,acyclovir 0.05 MG/MG [Zovirax],0,Drug,RxNorm,Branded Drug Comp,S,570534,9/11/2005,12/31/2099,NA
+1703742,acyclovir 0.05 MG/MG Topical Ointment,0,Drug,RxNorm,Clinical Drug,S,197312,1/1/1970,12/31/2099,NA
+19042994,acyclovir 0.05 MG/MG Topical Ointment [Zovirax],0,Drug,RxNorm,Branded Drug,S,209977,1/1/1970,12/31/2099,NA
+19086655,acyclovir 100 MG/ML,0,Drug,RxNorm,Clinical Drug Comp,S,330924,1/1/1970,12/31/2099,NA
+37497783,acyclovir 1000 MG Injection,0,Drug,RxNorm,Clinical Drug,S,2263503,5/4/2020,12/31/2099,NA
+19104584,acyclovir 2 MG/ML Injectable Solution,0,Drug,RxNorm,Clinical Drug,S,415660,1/1/1970,12/31/2099,NA
+19080857,acyclovir 200 MG,0,Drug,RxNorm,Clinical Drug Comp,S,315280,1/1/1970,12/31/2099,NA
+19117684,acyclovir 200 MG [Zovirax],0,Drug,RxNorm,Branded Drug Comp,S,566048,9/11/2005,12/31/2099,NA
+19018786,acyclovir 200 MG Oral Capsule,0,Drug,RxNorm,Clinical Drug,S,197310,1/1/1970,12/31/2099,NA
+1703749,acyclovir 200 MG Oral Capsule [Zovirax],0,Drug,RxNorm,Branded Drug,S,213694,1/1/1970,12/31/2099,NA
+19061193,acyclovir 25 MG/ML Injectable Solution,0,Drug,RxNorm,Clinical Drug,S,248108,1/1/1970,12/31/2099,NA
+19072293,acyclovir 40 MG/ML Oral Suspension,0,Drug,RxNorm,Clinical Drug,S,307730,1/1/1970,12/31/2099,NA
+19025908,acyclovir 40 MG/ML Oral Suspension [Zovirax],0,Drug,RxNorm,Branded Drug,S,201903,1/1/1970,12/31/2099,NA
+1703838,acyclovir 400 MG,0,Drug,RxNorm,Clinical Drug Comp,S,315281,1/1/1970,12/31/2099,NA
+19117687,acyclovir 400 MG [Zovirax],0,Drug,RxNorm,Branded Drug Comp,S,566051,9/11/2005,12/31/2099,NA
+1703691,acyclovir 400 MG Oral Tablet,0,Drug,RxNorm,Clinical Drug,S,197311,1/1/1970,12/31/2099,NA
+19016373,acyclovir 400 MG Oral Tablet [Virovir],0,Drug,RxNorm,Branded Drug,S,152737,1/1/1970,12/31/2099,NA
+19025910,acyclovir 400 MG Oral Tablet [Zovirax],0,Drug,RxNorm,Branded Drug,S,201905,1/1/1970,12/31/2099,NA
+43526551,acyclovir 50 MG Buccal Tablet,0,Drug,RxNorm,Clinical Drug,S,1423662,6/3/2013,12/31/2099,NA
+44816143,acyclovir 50 MG Buccal Tablet [Sitavig],0,Drug,RxNorm,Branded Drug,S,1493276,5/5/2014,12/31/2099,NA
+40223219,acyclovir 50 MG/ML / hydrocortisone 10 MG/ML Topical Cream,0,Drug,RxNorm,Clinical Drug,S,998422,8/1/2010,12/31/2099,NA
+40223220,acyclovir 50 MG/ML / hydrocortisone 10 MG/ML Topical Cream [Xerese],0,Drug,RxNorm,Branded Drug,S,998426,8/1/2010,12/31/2099,NA
+1703836,acyclovir 50 MG/ML Injectable Solution,0,Drug,RxNorm,Clinical Drug,S,313812,1/1/1970,12/31/2099,NA
+1703751,acyclovir 50 MG/ML Injectable Solution [Zovirax],0,Drug,RxNorm,Branded Drug,S,213721,1/1/1970,12/31/2099,NA
+35606522,acyclovir 50 MG/ML Injection,0,Drug,RxNorm,Clinical Drug,S,1734933,5/2/2016,12/31/2099,NA
+1703689,acyclovir 50 MG/ML Topical Cream,0,Drug,RxNorm,Clinical Drug,S,141859,1/1/1970,12/31/2099,NA
+1703869,acyclovir 50 MG/ML Topical Cream [Zovirax],0,Drug,RxNorm,Branded Drug,S,825321,11/30/2008,12/31/2099,NA
+37497785,acyclovir 500 MG Injection,0,Drug,RxNorm,Clinical Drug,S,2263505,5/4/2020,12/31/2099,NA
+1703839,acyclovir 800 MG,0,Drug,RxNorm,Clinical Drug Comp,S,315282,1/1/1970,12/31/2099,NA
+19023078,acyclovir 800 MG [Zovirax],0,Drug,RxNorm,Branded Drug Comp,S,573569,9/11/2005,12/31/2099,NA
+1703743,acyclovir 800 MG Oral Tablet,0,Drug,RxNorm,Clinical Drug,S,197313,1/1/1970,12/31/2099,NA
+19016374,acyclovir 800 MG Oral Tablet [Virovir],0,Drug,RxNorm,Branded Drug,S,152738,1/1/1970,12/31/2099,NA
+19047999,acyclovir 800 MG Oral Tablet [Zovirax],0,Drug,RxNorm,Branded Drug,S,213706,1/1/1970,12/31/2099,NA
+35606520,acyclovir Injection,0,Drug,RxNorm,Clinical Drug Form,S,1734931,5/2/2016,12/31/2099,NA
+40006510,acyclovir Oral Capsule,0,Drug,RxNorm,Clinical Drug Form,S,370536,1/1/1970,12/31/2099,NA
+40006515,acyclovir Oral Tablet,0,Drug,RxNorm,Clinical Drug Form,S,370537,1/1/1970,12/31/2099,NA
+1729323,adefovir,0,Drug,RxNorm,Ingredient,S,16521,1/1/1970,12/31/2099,NA
+40168220,adefovir dipivoxil 10 MG Oral Tablet,0,Drug,RxNorm,Clinical Drug,S,881341,12/6/2009,12/31/2099,NA
+40168221,adefovir dipivoxil 10 MG Oral Tablet [Hepsera],0,Drug,RxNorm,Branded Drug,S,881343,12/6/2009,12/31/2099,NA
+35201105,baloxavir marboxil,,Drug,RxNorm,Ingredient,S,2099995,12/3/2018,12/31/2099,NA
+35201110,baloxavir marboxil 20 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,2100000,12/3/2018,12/31/2099,NA
+35201115,baloxavir marboxil 20 MG Oral Tablet [Xofluza],,Drug,RxNorm,Branded Drug,S,2100006,12/3/2018,12/31/2099,NA
+35201117,baloxavir marboxil 40 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,2100008,12/3/2018,12/31/2099,NA
+35201119,baloxavir marboxil 40 MG Oral Tablet [Xofluza],,Drug,RxNorm,Branded Drug,S,2100010,12/3/2018,12/31/2099,NA
+36026900,baloxavir marboxil 80 MG Oral Tablet [Xofluza],,Drug,RxNorm,Branded Drug,S,2536742,5/3/2021,12/31/2099,NA
+40238770,boceprevir,,Drug,RxNorm,Ingredient,S,1102129,6/5/2011,12/31/2099,NA
+40238779,boceprevir 200 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,1102132,6/5/2011,12/31/2099,NA
+40238780,boceprevir 200 MG Oral Capsule [Victrelis],,Drug,RxNorm,Branded Drug,S,1102136,6/5/2011,12/31/2099,NA
+739588,cabotegravir,1,Drug,RxNorm,Ingredient,S,2475077,4/5/2021,12/31/2099,NA
+739612,cabotegravir 30 MG Oral Tablet,1,Drug,RxNorm,Clinical Drug,S,2475199,4/5/2021,12/31/2099,NA
+739618,cabotegravir 30 MG Oral Tablet [Vocabria],1,Drug,RxNorm,Branded Drug,S,2475205,4/5/2021,12/31/2099,NA
+1745072,cidofovir,,Drug,RxNorm,Ingredient,S,83171,1/1/1970,12/31/2099,NA
+35605433,cidofovir Injection,,Drug,RxNorm,Clinical Drug Form,S,1731046,5/2/2016,12/31/2099,NA
+46221696,daclatasvir,,Drug,RxNorm,Ingredient,S,1606218,5/4/2015,12/31/2099,NA
+46275932,daclatasvir 30 MG Oral Tablet [Daklinza],,Drug,RxNorm,Branded Drug,S,1660191,9/8/2015,12/31/2099,NA
+46275934,daclatasvir 60 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1660194,9/8/2015,12/31/2099,NA
+46275936,daclatasvir 60 MG Oral Tablet [Daklinza],,Drug,RxNorm,Branded Drug,S,1660196,9/8/2015,12/31/2099,NA
+45892558,dasabuvir,,Drug,RxNorm,Ingredient,S,1597381,3/2/2015,12/31/2099,NA
+45892561,dasabuvir 250 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1597386,3/2/2015,12/31/2099,NA
+35606465,elbasvir,,Drug,RxNorm,Ingredient,S,1734628,5/2/2016,12/31/2099,NA
+35606470,elbasvir 50 MG / grazoprevir 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1734636,5/2/2016,12/31/2099,NA
+35606474,elbasvir 50 MG / grazoprevir 100 MG Oral Tablet [Zepatier],,Drug,RxNorm,Branded Drug,S,1734642,5/2/2016,12/31/2099,NA
+1711246,entecavir,,Drug,RxNorm,Ingredient,S,306266,7/24/2005,12/31/2099,NA
+1711272,entecavir 0.05 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,485536,1/1/1970,12/31/2099,NA
+19123212,entecavir 0.05 MG/ML Oral Solution [Baraclude],,Drug,RxNorm,Branded Drug,S,607579,2/26/2006,12/31/2099,NA
+1711248,entecavir 0.5 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,485434,1/1/1970,12/31/2099,NA
+1711273,entecavir 0.5 MG Oral Tablet [Baraclude],,Drug,RxNorm,Branded Drug,S,578457,11/13/2005,12/31/2099,NA
+1711250,entecavir 1 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,485436,1/1/1970,12/31/2099,NA
+1711274,entecavir 1 MG Oral Tablet [Baraclude],,Drug,RxNorm,Branded Drug,S,578459,11/13/2005,12/31/2099,NA
+1703603,famciclovir,,Drug,RxNorm,Ingredient,S,68099,1/1/1970,12/31/2099,NA
+19021752,famciclovir 125 MG [Famvir],,Drug,RxNorm,Branded Drug Comp,S,564626,9/11/2005,12/31/2099,NA
+1703607,famciclovir 125 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,199192,1/1/1970,12/31/2099,NA
+19010603,famciclovir 125 MG Oral Tablet [Famvir],,Drug,RxNorm,Branded Drug,S,108852,1/1/1970,12/31/2099,NA
+1703632,famciclovir 250 MG,,Drug,RxNorm,Clinical Drug Comp,S,315917,1/1/1970,12/31/2099,NA
+19021753,famciclovir 250 MG [Famvir],,Drug,RxNorm,Branded Drug Comp,S,565744,9/11/2005,12/31/2099,NA
+1703608,famciclovir 250 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,199193,1/1/1970,12/31/2099,NA
+19024815,famciclovir 250 MG Oral Tablet [Famvir],,Drug,RxNorm,Branded Drug,S,201219,1/1/1970,12/31/2099,NA
+19021754,famciclovir 500 MG [Famvir],,Drug,RxNorm,Branded Drug Comp,S,567658,9/11/2005,12/31/2099,NA
+1703606,famciclovir 500 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,198382,1/1/1970,12/31/2099,NA
+19033656,famciclovir 500 MG Oral Tablet [Famvir],,Drug,RxNorm,Branded Drug,S,206853,1/1/1970,12/31/2099,NA
+1724700,foscarnet,,Drug,RxNorm,Ingredient,S,33562,1/1/1970,12/31/2099,NA
+35606300,foscarnet Injection,,Drug,RxNorm,Clinical Drug Form,S,1734376,5/2/2016,12/31/2099,NA
+35606303,foscarnet sodium 24 MG/ML Injection,,Drug,RxNorm,Clinical Drug,S,1734380,5/2/2016,12/31/2099,NA
+35606304,foscarnet sodium 24 MG/ML Injection [Foscavir],,Drug,RxNorm,Branded Drug,S,1734381,5/2/2016,12/31/2099,NA
+1757803,ganciclovir,,Drug,RxNorm,Ingredient,S,4678,1/1/1970,12/31/2099,NA
+19101620,ganciclovir 0.0015 MG/MG Ophthalmic Gel,,Drug,RxNorm,Clinical Drug,S,388052,1/1/1970,12/31/2099,NA
+40166672,ganciclovir 0.0015 MG/MG Ophthalmic Gel [Zirgan],,Drug,RxNorm,Branded Drug,S,864650,10/4/2009,12/31/2099,NA
+19080001,ganciclovir 250 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,314007,1/1/1970,12/31/2099,NA
+19030092,ganciclovir 250 MG Oral Capsule [Cytovene],,Drug,RxNorm,Branded Drug,S,205744,1/1/1970,12/31/2099,NA
+19122729,ganciclovir 4.5 MG Drug Implant,,Drug,RxNorm,Clinical Drug,S,604020,2/26/2006,12/31/2099,NA
+44110175,Ganciclovir 500 MG Injectable Suspension,,Drug,RxNorm Extension,Clinical Drug,S,OMOP1104806,8/24/2017,12/31/2099,NA
+19077574,ganciclovir 500 MG Injection,,Drug,RxNorm,Clinical Drug,S,310442,1/1/1970,12/31/2099,NA
+19030091,ganciclovir 500 MG Injection [Cytovene],,Drug,RxNorm,Branded Drug,S,205743,1/1/1970,12/31/2099,NA
+19023333,ganciclovir 500 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,200206,1/1/1970,12/31/2099,NA
+19047616,ganciclovir 500 MG Oral Capsule [Cytovene],,Drug,RxNorm,Branded Drug,S,213202,1/1/1970,12/31/2099,NA
+35605861,ganciclovir Injection,,Drug,RxNorm,Clinical Drug Form,S,1732140,5/2/2016,12/31/2099,NA
+793843,glecaprevir,,Drug,RxNorm,Ingredient,S,1940635,2/5/2018,12/31/2099,NA
+793863,glecaprevir 100 MG / pibrentasvir 40 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1940703,2/5/2018,12/31/2099,NA
+793869,glecaprevir 100 MG / pibrentasvir 40 MG Oral Tablet [Mavyret],,Drug,RxNorm,Branded Drug,S,1940709,2/5/2018,12/31/2099,NA
+1537163,glecaprevir 50 MG / pibrentasvir 20 MG Oral Pellet [Mavyret],,Drug,RxNorm,Branded Drug,S,2557910,8/2/2021,12/31/2099,NA
+35606467,grazoprevir,,Drug,RxNorm,Ingredient,S,1734630,5/2/2016,12/31/2099,NA
+45775020,ledipasvir,,Drug,RxNorm,Ingredient,S,1591922,12/1/2014,12/31/2099,NA
+45775027,ledipasvir 90 MG / sofosbuvir 400 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1591943,12/1/2014,12/31/2099,NA
+45775164,ledipasvir 90 MG / sofosbuvir 400 MG Oral Tablet [Harvoni],,Drug,RxNorm,Branded Drug,S,1591949,12/1/2014,12/31/2099,NA
+792929,letermovir,,Drug,RxNorm,Ingredient,S,1988648,2/5/2018,12/31/2099,NA
+792947,letermovir 240 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1988666,2/5/2018,12/31/2099,NA
+792952,letermovir 240 MG Oral Tablet [Prevymis],,Drug,RxNorm,Branded Drug,S,1988671,2/5/2018,12/31/2099,NA
+792954,letermovir 480 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1988673,2/5/2018,12/31/2099,NA
+792956,letermovir 480 MG Oral Tablet [Prevymis],,Drug,RxNorm,Branded Drug,S,1988675,2/5/2018,12/31/2099,NA
+45892552,ombitasvir,,Drug,RxNorm,Ingredient,S,1597371,3/2/2015,12/31/2099,NA
+1799139,oseltamivir,,Drug,RxNorm,Ingredient,S,260101,1/1/1970,12/31/2099,NA
+1799152,oseltamivir 12 MG/ML Oral Suspension,,Drug,RxNorm,Clinical Drug,S,314157,1/1/1970,12/31/2099,NA
+1799155,oseltamivir 12 MG/ML Oral Suspension [Tamiflu],,Drug,RxNorm,Branded Drug,S,581626,11/13/2005,12/31/2099,NA
+19127259,oseltamivir 30 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,728109,9/30/2007,12/31/2099,NA
+1799158,oseltamivir 30 MG Oral Capsule [Tamiflu],,Drug,RxNorm,Branded Drug,S,728111,9/30/2007,12/31/2099,NA
+1799160,oseltamivir 45 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,728113,9/30/2007,12/31/2099,NA
+1799161,oseltamivir 45 MG Oral Capsule [Tamiflu],,Drug,RxNorm,Branded Drug,S,728115,9/30/2007,12/31/2099,NA
+40241046,oseltamivir 6 MG/ML Oral Suspension,,Drug,RxNorm,Clinical Drug,S,1115698,7/31/2011,12/31/2099,NA
+40241047,oseltamivir 6 MG/ML Oral Suspension [Tamiflu],,Drug,RxNorm,Branded Drug,S,1115700,7/31/2011,12/31/2099,NA
+19085102,oseltamivir 75 MG,,Drug,RxNorm,Clinical Drug Comp,S,330391,1/1/1970,12/31/2099,NA
+19099769,oseltamivir 75 MG [Tamiflu],,Drug,RxNorm,Branded Drug Comp,S,574537,9/11/2005,12/31/2099,NA
+1799141,oseltamivir 75 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,312122,1/1/1970,12/31/2099,NA
+1799140,oseltamivir 75 MG Oral Capsule [Tamiflu],,Drug,RxNorm,Branded Drug,S,261315,1/1/1970,12/31/2099,NA
+45892554,paritaprevir,,Drug,RxNorm,Ingredient,S,1597373,3/2/2015,12/31/2099,NA
+981654,penciclovir,,Drug,RxNorm,Ingredient,S,59839,1/1/1970,12/31/2099,NA
+981656,penciclovir 10 MG/ML Topical Cream,,Drug,RxNorm,Clinical Drug,S,312255,1/1/1970,12/31/2099,NA
+981655,penciclovir 10 MG/ML Topical Cream [Denavir],,Drug,RxNorm,Branded Drug,S,211343,1/1/1970,12/31/2099,NA
+793844,pibrentasvir,,Drug,RxNorm,Ingredient,S,1940636,2/5/2018,12/31/2099,NA
+37499271,remdesivir,,Drug,RxNorm,Ingredient,S,2284718,5/4/2020,12/31/2099,NA
+37499275,remdesivir 100 MG Injection,,Drug,RxNorm,Clinical Drug,S,2284960,5/4/2020,12/31/2099,NA
+37002796,remdesivir 100 MG Injection [Veklury],,Drug,RxNorm,Branded Drug,S,2395502,1/4/2021,12/31/2099,NA
+1762711,ribavirin,,Drug,RxNorm,Ingredient,S,9344,1/1/1970,12/31/2099,NA
+1762736,ribavirin 20 MG/ML Inhalation Solution,,Drug,RxNorm,Clinical Drug,S,312818,1/1/1970,12/31/2099,NA
+19035444,ribavirin 20 MG/ML Inhalation Solution [Virazole],,Drug,RxNorm,Branded Drug,S,207406,1/1/1970,12/31/2099,NA
+1762737,ribavirin 200 MG,,Drug,RxNorm,Clinical Drug Comp,S,332339,1/1/1970,12/31/2099,NA
+1762735,ribavirin 200 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,312817,1/1/1970,12/31/2099,NA
+19098309,ribavirin 200 MG Oral Capsule [Rebetol],,Drug,RxNorm,Branded Drug,S,352007,1/1/1970,12/31/2099,NA
+1762773,ribavirin 200 MG Oral Capsule [Ribasphere],,Drug,RxNorm,Branded Drug,S,539485,9/11/2005,12/31/2099,NA
+19061194,ribavirin 200 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,248109,1/1/1970,12/31/2099,NA
+1762741,ribavirin 200 MG Oral Tablet [Copegus],,Drug,RxNorm,Branded Drug,S,352337,1/1/1970,12/31/2099,NA
+44785306,ribavirin 200 MG Oral Tablet [Moderiba],,Drug,RxNorm,Branded Drug,S,1486200,2/3/2014,12/31/2099,NA
+1762778,ribavirin 200 MG Oral Tablet [Ribasphere],,Drug,RxNorm,Branded Drug,S,616129,4/2/2006,12/31/2099,NA
+19114474,ribavirin 40 MG/ML Oral Solution [Rebetol],,Drug,RxNorm,Branded Drug,S,544400,9/11/2005,12/31/2099,NA
+1762775,ribavirin 400 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,597718,1/15/2006,12/31/2099,NA
+44785308,ribavirin 400 MG Oral Tablet [Moderiba],,Drug,RxNorm,Branded Drug,S,1486197,2/3/2014,12/31/2099,NA
+1762779,ribavirin 400 MG Oral Tablet [Ribasphere],,Drug,RxNorm,Branded Drug,S,616131,4/2/2006,12/31/2099,NA
+1762776,ribavirin 600 MG,,Drug,RxNorm,Clinical Drug Comp,S,597721,1/15/2006,12/31/2099,NA
+1762777,ribavirin 600 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,597722,1/15/2006,12/31/2099,NA
+44785310,ribavirin 600 MG Oral Tablet [Moderiba],,Drug,RxNorm,Branded Drug,S,1486202,2/3/2014,12/31/2099,NA
+1762780,ribavirin 600 MG Oral Tablet [Ribasphere],,Drug,RxNorm,Branded Drug,S,616133,4/2/2006,12/31/2099,NA
+19125836,ribavirin 600 MG Oral Tablet [RibaTab],,Drug,RxNorm,Branded Drug,S,701413,4/29/2007,12/31/2099,NA
+1763339,rimantadine,,Drug,RxNorm,Ingredient,S,9386,1/1/1970,12/31/2099,NA
+40163398,rimantadine hydrochloride 10 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,856600,8/2/2009,12/31/2099,NA
+40163401,rimantadine hydrochloride 100 MG,,Drug,RxNorm,Clinical Drug Comp,S,856604,8/2/2009,12/31/2099,NA
+40163404,rimantadine hydrochloride 100 MG [Flumadine],,Drug,RxNorm,Branded Drug Comp,S,856606,8/2/2009,12/31/2099,NA
+40163402,rimantadine hydrochloride 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,856605,8/2/2009,12/31/2099,NA
+40163403,rimantadine hydrochloride 100 MG Oral Tablet [Flumadine],,Drug,RxNorm,Branded Drug,S,856607,8/2/2009,12/31/2099,NA
+44785086,simeprevir,,Drug,RxNorm,Ingredient,S,1482790,1/6/2014,12/31/2099,NA
+44785088,simeprevir 150 MG Oral Capsule,,Drug,RxNorm,Clinical Drug,S,1482801,1/6/2014,12/31/2099,NA
+44785089,simeprevir 150 MG Oral Capsule [Olysio],,Drug,RxNorm,Branded Drug,S,1482807,1/6/2014,12/31/2099,NA
+44785094,sofosbuvir,,Drug,RxNorm,Ingredient,S,1484911,1/6/2014,12/31/2099,NA
+37499477,sofosbuvir 200 MG / velpatasvir 50 MG Oral Tablet [Epclusa],,Drug,RxNorm,Branded Drug,S,2288816,5/4/2020,12/31/2099,NA
+793746,sofosbuvir 400 MG / velpatasvir 100 MG / voxilaprevir 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1939329,2/5/2018,12/31/2099,NA
+793752,sofosbuvir 400 MG / velpatasvir 100 MG / voxilaprevir 100 MG Oral Tablet [Vosevi],,Drug,RxNorm,Branded Drug,S,1939335,2/5/2018,12/31/2099,NA
+36249209,sofosbuvir 400 MG / velpatasvir 100 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1799212,8/1/2016,12/31/2099,NA
+36249215,sofosbuvir 400 MG / velpatasvir 100 MG Oral Tablet [Epclusa],,Drug,RxNorm,Branded Drug,S,1799218,8/1/2016,12/31/2099,NA
+44785096,sofosbuvir 400 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1484916,1/6/2014,12/31/2099,NA
+44785097,sofosbuvir 400 MG Oral Tablet [Sovaldi],,Drug,RxNorm,Branded Drug,S,1484922,1/6/2014,12/31/2099,NA
+40239330,telaprevir,,Drug,RxNorm,Ingredient,S,1102261,6/5/2011,12/31/2099,NA
+40239332,telaprevir 375 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,1102280,6/5/2011,12/31/2099,NA
+40239333,telaprevir 375 MG Oral Tablet [Incivek],,Drug,RxNorm,Branded Drug,S,1102282,6/5/2011,12/31/2099,NA
+35605546,tenofovir alafenamide,1,Drug,RxNorm,Ingredient,S,1721603,5/2/2016,12/31/2099,NA
+1718503,tenofovir alafenamide 25 MG Oral Tablet,1,Drug,RxNorm,Clinical Drug,S,1858261,1/3/2017,12/31/2099,NA
+1718509,tenofovir alafenamide 25 MG Oral Tablet [Vemlidy],1,Drug,RxNorm,Branded Drug,S,1858267,1/3/2017,12/31/2099,NA
+1717704,valacyclovir,,Drug,RxNorm,Ingredient,S,73645,1/1/1970,12/31/2099,NA
+19084848,valacyclovir 1000 MG,,Drug,RxNorm,Clinical Drug Comp,S,330296,1/1/1970,12/31/2099,NA
+19022914,valacyclovir 1000 MG [Valtrex],,Drug,RxNorm,Branded Drug Comp,S,572631,9/11/2005,12/31/2099,NA
+1717707,valacyclovir 1000 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,313564,1/1/1970,12/31/2099,NA
+1717706,valacyclovir 1000 MG Oral Tablet [Valtrex],,Drug,RxNorm,Branded Drug,S,212448,1/1/1970,12/31/2099,NA
+19085487,valacyclovir 500 MG,,Drug,RxNorm,Clinical Drug Comp,S,330526,1/1/1970,12/31/2099,NA
+19022913,valacyclovir 500 MG [Valtrex],,Drug,RxNorm,Branded Drug Comp,S,564583,9/11/2005,12/31/2099,NA
+1717708,valacyclovir 500 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,313565,1/1/1970,12/31/2099,NA
+19010431,valacyclovir 500 MG Oral Tablet [Valtrex],,Drug,RxNorm,Branded Drug,S,108780,1/1/1970,12/31/2099,NA
+40100410,valacyclovir Oral Tablet,,Drug,RxNorm,Clinical Drug Form,S,374272,1/1/1970,12/31/2099,NA
+1703063,valganciclovir,,Drug,RxNorm,Ingredient,S,275891,1/1/1970,12/31/2099,NA
+1703066,valganciclovir 450 MG,,Drug,RxNorm,Clinical Drug Comp,S,331565,1/1/1970,12/31/2099,NA
+19120745,valganciclovir 450 MG [Valcyte],,Drug,RxNorm,Branded Drug Comp,S,575014,9/11/2005,12/31/2099,NA
+1703065,valganciclovir 450 MG Oral Tablet,,Drug,RxNorm,Clinical Drug,S,313566,1/1/1970,12/31/2099,NA
+1703064,valganciclovir 450 MG Oral Tablet [Valcyte],,Drug,RxNorm,Branded Drug,S,284587,1/1/1970,12/31/2099,NA
+40166691,valganciclovir 50 MG/ML Oral Solution,,Drug,RxNorm,Clinical Drug,S,863559,10/4/2009,12/31/2099,NA
+40166692,valganciclovir 50 MG/ML Oral Solution [Valcyte],,Drug,RxNorm,Branded Drug,S,863562,10/4/2009,12/31/2099,NA
+36249204,velpatasvir,,Drug,RxNorm,Ingredient,S,1799206,8/1/2016,12/31/2099,NA
+908126,vidarabine,,Drug,RxNorm,Ingredient,S,11194,1/1/1970,12/31/2099,NA
+793741,voxilaprevir,,Drug,RxNorm,Ingredient,S,1939323,2/5/2018,12/31/2099,NA
+1708748,zanamivir,,Drug,RxNorm,Ingredient,S,69722,1/1/1970,12/31/2099,NA
